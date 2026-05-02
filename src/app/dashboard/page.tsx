@@ -748,9 +748,6 @@ export default function DashboardPage() {
           </div>
         </div>
 
-          </div>
-        </div>
-
         {/* Success Toolkit Section */}
         <div className="rounded-xl border border-neural-border bg-neural-surface p-5 mb-8">
           <div className="flex items-center gap-2 mb-4">

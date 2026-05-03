@@ -118,11 +118,6 @@ const QUICK_QUESTIONS: Record<Role, string[]> = {
 const DEMO_SAMPLE_QUESTION =
   "Walk me through how you would design, train, validate, and deploy a production ML model for real-time fraud detection, including monitoring, drift handling, and safe rollback.";
 
-  }, []);
-
-  return { isListening, transcript, start, stop };
-}
-
 function QuotaUrgencyBanner({
   remaining,
   upgrading,
